@@ -48,7 +48,7 @@ https://discord.gg/uAVxVqmZXx
 
 #### Access the Releases ####
 
-The latest stable releases can be accessed at >  http://github.com/Aceearly1993/lc2-miserablesecrets/releases
+The latest stable releases can be accessed at >  http://github.com/AceChronicles93/lc2-side-alucard/releases
 
 #### Credit Goes For ####
 Migami Games  
